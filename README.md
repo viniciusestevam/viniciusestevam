@@ -3,7 +3,7 @@
 </div>
 
 # Hi there :relaxed:
-My name is Vinícius Estevam, I'm a Software Engineer at @voltbras. I love to bring fresh ideas and solve real problems. Currently working a lot with Backend technologies like **GraphQL , Typescript with Node.js, Prisma and Go**, and also with Frontend/Mobile using **React and React Native**.
+My name is Vinícius Estevam, I'm a Software Engineer at [@Voltbras](https://github.com/voltbras). I love to bring fresh ideas and solve real problems. Currently working a lot with Backend technologies like **GraphQL , Typescript with Node.js, Prisma and Go**, and also with Frontend/Mobile using **React and React Native**.
  
  I'm interested a lot on Software Architecture, love to study and apply **design patterns**. About this, I'm currently applying **CQRS** and **Eventsourcing** on my recent projects.
 
