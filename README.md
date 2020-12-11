@@ -1,11 +1,13 @@
-<div align="center">
-  <img alt="I love coffee <3" src="https://media3.giphy.com/media/NHUONhmbo448/giphy.gif?cid=ecf05e47a16d4dcae9286d1f92660bc9928323bb494d03a9&rid=giphy.gif" />
-</div>
+<img align="right" height="300px" src="https://github.com/viniciusestevam/viniciusestevam/blob/master/character.png?raw=true" />
 
 # Hi there :relaxed:
-My name is Vinícius Estevam, I'm a Software Engineer at [@Rocketseat](https://github.com/rocketseat). I love to bring fresh ideas and solve real problems. Currently working a lot with Backend technologies like **GraphQL , Typescript with Node.js, Prisma and Go**, and also with Frontend/Mobile using **React and React Native**.
- 
- I'm interested a lot on Software Architecture, love to study and apply **design patterns**. About this, I'm currently applying **CQRS** and **Eventsourcing** on the projects I've been working on.
+My name is Vinícius Estevam, I'm a Software Engineer at [@Rocketseat](https://github.com/rocketseat). I love to bring fresh ideas and solve real problems. Currently working a lot with Backend technologies like **GraphQL , Typescript with Node.js, and Go**, and also with Frontend/Mobile using **React and React Native**.
+
+I'm interested a lot on Software Architecture, love to study and apply **design/architecture patterns**. About this, I'm currently studying and applying **CQRS** and **Eventsourcing** on the projects I've been working on.
+
+Passionate with GraphQL, currently I'm a great enthusiast of this technology.
+
+Love to have fun when programming, creating side projects all the time validating concepts or just dumb ideas.
 
 ### :mailbox: Reach me	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-estevam1/)](https://www.linkedin.com/in/vinicius-estevam1/)
