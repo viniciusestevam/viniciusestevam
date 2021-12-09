@@ -1,14 +1,19 @@
-<img align="right" height="300px" src="https://github.com/viniciusestevam/viniciusestevam/blob/master/character.png?raw=true" />
-
 # Hi there :relaxed:
-My name is Vinícius Estevam, I'm a Software Engineer at [@Rocketseat](https://github.com/rocketseat). I love to bring fresh ideas and solve real problems. Currently working a lot with Backend technologies like **GraphQL , Typescript with Node.js, and Go**, and also with Frontend/Mobile using **React and React Native**.
-
-I'm interested a lot on Software Architecture, love to study and apply **design/architecture patterns**. About this, I'm currently studying and applying **CQRS** and **Eventsourcing** on the projects I've been working on.
-
-Passionate with GraphQL, currently I'm a great enthusiast of this technology.
+My name is Vinícius Estevam, I'm a Software Engineer at [@Rocketseat](https://github.com/rocketseat).\
+Currently working a lot with Back end technologies like **GraphQL, Prisma, Typescript and Go**.
 
 Love to have fun when programming, creating side projects all the time validating concepts or just dumb ideas.
 
+My main goal is to empower people and build a better world sharing knowledge with tech communities.
+
+Studying Rust :crab:
+
 ### :mailbox: Reach me	
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/viniciusestev1)](https://twitter.com/viniciusestev1)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://viniciusestevam.medium.com/)](https://viniciusestevam.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-estevam1/)](https://www.linkedin.com/in/vinicius-estevam1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamvinicius31@gmail.com)](mailto:estevamvinicius31@gmail.com)
+
+
+### Recent Article
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viniciusestevam/0" alt="Recent Article 0"> 
