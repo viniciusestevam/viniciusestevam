@@ -1,9 +1,7 @@
 # Hi there :relaxed:
-My name is Vinícius Estevam, I'm a Software Engineer at [@Rocketseat](https://github.com/rocketseat).\
-Currently working a lot with Back end technologies like **GraphQL, Prisma, Typescript and Go**.
+My name is Vinícius Estevam, I'm a Software Engineer at [@Pagar.me](https://github.com/pagarme).\
 
 Love to have fun when programming, creating side projects all the time validating concepts or just dumb ideas.
-
 My main goal is to empower people and build a better world sharing knowledge with tech communities.
 
 Studying Rust :crab:
