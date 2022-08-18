@@ -11,7 +11,3 @@ Studying Rust :crab:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://viniciusestevam.medium.com/)](https://viniciusestevam.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-estevam1/)](https://www.linkedin.com/in/vinicius-estevam1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:estevamvinicius31@gmail.com)](mailto:estevamvinicius31@gmail.com)
-
-
-### Recent Article
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@viniciusestevam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@viniciusestevam/0" alt="Recent Article 0"> 
