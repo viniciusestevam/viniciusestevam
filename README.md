@@ -7,11 +7,12 @@ Currently at [Stone](https://github.com/stone-payments) (NASDAQ: STNE), one of B
 I also founded Stone's **AIOps Chapter**, a cross-functional initiative to standardize AI tooling adoption across engineering: workshops, prompt engineering training, and shipping AI-augmented dev workflows that have cut new-provider integration timelines by ~75%.
 
 ### :hammer_and_wrench: What I work with
-**Languages:** TypeScript, Node.js, Go, Java, Python
-**Architecture:** Microservices, Event-driven, CQRS, Event Sourcing, DDD, GraphQL Federation
-**Cloud & Infra:** AWS (EKS, Lambda, SQS, RDS), Kubernetes, Docker, GitHub Actions
-**Observability:** Datadog, OpenTelemetry
-**AI:** Agentic workflows, context engineering, LLM orchestration, Claude
+
+- **Languages:** TypeScript, Node.js, Go, Java, Python
+- **Architecture:** Microservices, Event-driven, CQRS, Event Sourcing, DDD, GraphQL Federation
+- **Cloud & Infra:** AWS (EKS, Lambda, SQS, RDS), Kubernetes, Docker, GitHub Actions
+- **Observability:** Datadog, OpenTelemetry
+- **AI:** Agentic workflows, context engineering, LLM orchestration, Claude
 
 ### :sparkles: Side things
 - **[ts-ocpp](https://github.com/voltbras/ts-ocpp)**: open-source TypeScript OCPP library for EV charging, built with functional/immutable patterns
