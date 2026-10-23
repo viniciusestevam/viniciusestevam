@@ -2,10 +2,6 @@
 
 I'm **Vinícius Estevam**, a Senior Software Engineer based in Florianópolis, Brazil.
 
-Currently at [Stone](https://github.com/stone-payments) (NASDAQ: STNE), one of Brazil's largest payment processors operating in a massive market. I architect high-throughput card payment systems on AWS EKS with TypeScript/Node.js, PostgreSQL, Kafka and SQS.
-
-I also founded Stone's **AIOps Chapter**, a cross-functional initiative to standardize AI tooling adoption across engineering: workshops, prompt engineering training, and shipping AI-augmented dev workflows that have cut new-provider integration timelines by ~75%.
-
 ### :hammer_and_wrench: What I work with
 
 - **Languages:** TypeScript, Node.js, Go, Java, Python
